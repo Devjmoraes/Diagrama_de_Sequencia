@@ -1,4 +1,4 @@
-# Diagrama_de_Sequencia
+# Diagrama de Sequencia
 
 ### Diagrama de Sequencia do Assinador
 
